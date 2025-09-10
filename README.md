@@ -2,9 +2,9 @@ GroundStudio USB to serial HT42B534 Module
 ====================================
 ![USBTTL_Holtek REV0 2](https://github.com/GroundStudio/GroundStudio_USB_to_serial_HT42B534_module/assets/77836107/38586e95-0f8a-48cb-99cb-b2191af715e5)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/1725-usbttlht42b534-2.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/groundstudio/1855-usbttlht42b534-2-module-6427854028075.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
